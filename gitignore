@@ -1,0 +1,13 @@
+# Local game data (your own scores and snake choices)
+snake_leaderboard.json
+snake_highscore.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
